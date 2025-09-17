@@ -4,7 +4,7 @@ I care deeply about community, clarity, and making tech more approachable especi
 zsaxdegfrthlk 
 ## 🛠️ Skills & Tools
 
-### 🧾 Languages
+### 🧾 Languages  
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40"/>
