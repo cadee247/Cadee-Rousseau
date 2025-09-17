@@ -29,7 +29,7 @@ zsaxdegfrthlk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40"/>
 </div>
 
-### 🧰 Tools
+### 🧰 Tools               
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome DevTools" title="Chrome DevTools" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40"/>
