@@ -3,7 +3,7 @@ I’m more into creative problem-solving than buzzwords, and I build with one go
 I care deeply about community, clarity, and making tech more approachable especially here in Johannesburg, where I design platforms that connect people and ideas.
 zsaxdegfrthlk 
 ## 🛠️ Skills & Tools
-
+              
 ### 🧾 Languages  
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40"/>
