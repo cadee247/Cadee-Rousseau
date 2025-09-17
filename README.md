@@ -2,7 +2,7 @@ Welcome to my GitHub, I'm Cadee Rousseau. I build with purpose, clean & scalable
 I’m more into creative problem-solving than buzzwords, and I build with one goal in mind: make something useful, and make it feel good to use.  
 I care deeply about community, clarity, and making tech more approachable especially here in Johannesburg, where I design platforms that connect people and ideas.
 zsaxdegfrthlk 
-## 🛠️ Skills & Tools                                  
+## 🛠️ Skills & Tools                                                                           
               
 ### 🧾 Languages  
 <div style="display: flex; gap: 10px;">                  
